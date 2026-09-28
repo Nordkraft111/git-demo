@@ -32,7 +32,7 @@ Den fulde prompt og gennemgangen står i `PROMPT.md`. Portfolioen er en studieø
 3. Se tredje commit og gennemgå HTML-strukturen og CSS-filen. Prøv selv at forklare, hvad `header`, `nav`, `main`, `section` og medieforespørgslen gør.
 4. Åbn `index.html` i browseren. Prøv en smal visning, tryk Tab gennem links, og brug “Gå til indhold”.
 5. Lav eventuelt selv en lille, men meningsfuld ændring, se forskellen i PhpStorm og lav et nyt commit med en forklarende besked. De oprindelige commits behøver ikke ændres.
-6. Når et særskilt GitHub-repository til øvelsen er oprettet og publiceret, kontrollér online, at filer og commit-historik faktisk kan ses. Brug den konkrete adresse til øvelsens GitHub-aflevering i Moodle. RED SEA READY-repositoriet er en anden opgave.
+6. Åbn https://github.com/Nordkraft111/git-demo og sammenhold filer og commit-historik med det lokale projekt. Repositoriet er publiceret 28. september 2026; det er dette særskilte link, der hører til GitHub-øvelsen. RED SEA READY-repositoriet er en anden opgave.
 
 ## Kontrol
 
@@ -63,4 +63,6 @@ Kommandoen køres i den mappe, hvor bundle-filen ligger. `git-demo-kopi` skal v�
 
 ## Afgrænsning og status
 
-Lokalt udkast klargjort til Magnus' gennemgang. Ingen dataindsamling, eksterne pakker eller login er nødvendige. Der er endnu ikke oprettet nogen remote i dette repository, og dette lokale arbejde er ikke en GitHub-publicering eller Moodle-aflevering. Senere publicering ændrer naturligvis denne status.
+Publiceret 28. september 2026 på https://github.com/Nordkraft111/git-demo. Repositoriet er offentligt, origin peger på dette repository, og main er sendt til GitHub. De første tre commits er bevaret; en efterfølgende dokumentationscommit registrerer publiceringen. Ingen dataindsamling, eksterne pakker eller login er nødvendige for at åbne siden. Magnus' egen gennemgang og eventuelle øvelsestrin i PhpStorm er fortsat særskilte, ikke dokumenteret som gennemført. Intet er afleveret i Moodle.
+
+PhpStorm 2026.2.2 har gennemført en automatiseret kodeinspektion via sin officielle kommandolinje med en HTML/CSS-profil. Resultatet indeholdt kun staveforslag, primært danske ord og tekniske navne. Inspektionen er en afgrænset teknisk kontrol og dokumenterer hverken Magnus' manuelle arbejde eller fuld fejlfrihed.
